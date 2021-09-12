@@ -1,3 +1,3 @@
-# greetingsgo
+# hellogo
 
 Following [this](https://golang.org/doc/tutorial/create-module) go tutorial
